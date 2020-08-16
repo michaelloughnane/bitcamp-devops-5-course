@@ -1,6 +1,4 @@
-## Cat Facts anyone?
-
-![Kittens everywhere meme](https://user-images.githubusercontent.com/38021615/74055102-361bcb00-4994-11ea-9525-3aef295f0373.png)
+## Fetch from an external API
 
 The next action we write is going to reach out to an external API and fetch data for consumption. Although your action is bound to a step, which is bound to a workflow within your repository it is NOT bound to an isolated network. This means that we can leverage APIs from our favorite cloud providers, favorite pizza shops, social media or whatever API our developers need.
 

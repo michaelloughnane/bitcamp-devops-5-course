@@ -1,6 +1,6 @@
-## Go on... Tell me more!
+## Let's examine these more closely!
 
-I'm glad you asked. Let's take a look at the workflow file that we just committed to this repository.
+Let's take a look at the workflow file that we just committed to this repository.
 
 ```yaml
 name: CI

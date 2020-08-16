@@ -1,4 +1,4 @@
-## {{user.login}} get ready to purr
+## {{user.login}}, get with the facts!
 
 Great job! Everything is all set up and now we are ready to start learning about cats 🐈. You will find you have some cat fact related labels available to you in this repository. You don't have to use them, any label will trigger our workflow, but it might be easier to follow along with me if you use the labels I suggest.
 

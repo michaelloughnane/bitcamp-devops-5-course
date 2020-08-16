@@ -1,4 +1,4 @@
-# Trigger all the things 🎉
+# Triggering workflows 🎉
 
 Let's trigger your new workflow!
 

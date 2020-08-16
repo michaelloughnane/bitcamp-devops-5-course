@@ -1,4 +1,4 @@
-## Take a 👀 at what you made!
+## Take a look at what you made!
 
 Great Job 👍 making those changes @{{user.login}}. I will take just a moment to walk you through what happened.
 
