@@ -13,7 +13,7 @@ A `requirements.txt` file is required so that the Python package manger, PIP, kn
    requests
    ```
 
-1. Commit the changes to this branch.
+2. Commit the changes to this branch.
 
 📖[Master PIP](https://www.pythonforbeginners.com/pip/)
 

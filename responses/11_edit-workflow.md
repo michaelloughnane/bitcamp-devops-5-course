@@ -33,7 +33,7 @@ Let's change the tigger and add the cat fact action
            uses: ./.github/actions/cat-facts
    ```
 
-1. Commit the changes to this branch
+2. Commit the changes to this branch
 
 ---
 

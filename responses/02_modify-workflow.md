@@ -19,7 +19,7 @@ Currently `my-workflow.yml` is not set up correctly for our use-case. It worked 
          - uses: actions/checkout@v1
    ```
 
-1. Commit these file changes to this branch
+2. Commit these file changes to this branch
 
 ---
 

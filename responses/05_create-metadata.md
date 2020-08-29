@@ -21,9 +21,9 @@ We will start with using the parameters that are **required** and later implemen
      image: "Dockerfile"
    ```
 
-1. Commit the changes to a new branch named `hello-world`
-1. Create a pull request titled **Add a Hello World action**.
-1. Supply the pull request body content and click `Create pull request`.
+2. Commit the changes to a new branch named `hello-world`
+3. Create a pull request titled **Add a Hello World action**.
+4. Supply the pull request body content and click `Create pull request`.
 
 ---
 

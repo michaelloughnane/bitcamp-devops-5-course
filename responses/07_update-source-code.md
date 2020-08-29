@@ -36,7 +36,7 @@ Great job 👍 next let's update our source code to consume the inputs that are 
    }
    ```
 
-1. Commit the changes to this branch
+2. Commit the changes to this branch
 
 ---
 

@@ -62,8 +62,8 @@ We need to make some edits to the `my-workflow.yml` file to get it configured to
              issueTitle: "a cat fact for you"
    ```
 
-1. Commit the changes to a new branch and name it `action-three`.
-1. Create a pull request named **Use outputs**
+2. Commit the changes to a new branch and name it `action-three`.
+3. Create a pull request named **Use outputs**
 
 
 ---

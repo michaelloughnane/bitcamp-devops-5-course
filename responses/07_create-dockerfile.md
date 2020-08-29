@@ -8,7 +8,7 @@ This action now has two of the three key files it needs to run:
 
 ## Create the action's `Dockerfile`
 
-Lastly we will create the `Dockerfile`. Like with Go programming, it is perfectly okay if you are not a Docker guru, we will provide the needed code snippets for your `Dockerfile`.
+Lastly we will create the `Dockerfile`. Like with Go programming, it's okay if you're not a Docker guru - we will provide the needed code snippets for your `Dockerfile`.
 
 ### :keyboard: Activity: Create a `Dockerfile` containing the Docker instructions
 

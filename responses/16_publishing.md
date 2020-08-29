@@ -7,7 +7,7 @@ Some notable actions you will find on the marketplace are:
 - [Actions for Discord](https://github.com/marketplace/actions/actions-for-discord)
 - [GitHub Action for Slack](https://github.com/marketplace/actions/github-action-for-slack)
 - [Jekyll action](https://github.com/marketplace/actions/jekyll-action)
-- [Run Jest](https://github.com/marketplace/actions/run-jest)
+- [Run Jest](https://github.com/marketplace/actions/run-jest) (this one might have been helpful for your homework last week!)
 
 And that just scratches the surface of the 2000+ and counting actions you will find on the marketplace 😄
 

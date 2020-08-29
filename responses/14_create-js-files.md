@@ -33,8 +33,8 @@
    run();
    ```
 
-1. Commit the changes to this branch.
-1. Click the green `Commit new file` button
+2. Commit the changes to this branch.
+3. Click the green `Commit new file` button
 
 ---
 

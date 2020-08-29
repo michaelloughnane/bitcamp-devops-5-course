@@ -68,7 +68,7 @@ If Python is a new programming language to you, like always don't worry. You are
    print(f"::set-output name=fact::{random_fact}")
    ```
 
-1. Commit the changes to this branch:
+2. Commit the changes to this branch:
 
 📖 [Learn Python programming](https://www.learnpython.org/)
 

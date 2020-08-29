@@ -25,7 +25,7 @@ We will not use the `fact` in in this portion of the course. There will be a lat
      image: "Dockerfile"
    ```
 
-1. Commit the changes to the branch named `action-two`
+2. Commit the changes to the branch named `action-two`
 
 ---
 

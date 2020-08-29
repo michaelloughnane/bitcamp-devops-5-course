@@ -26,7 +26,7 @@ The last piece to this actions puzzle is to edit the workflow file so that we ca
              firstGreeting: "Learning Lab User"
    ```
 
-1. Commit the changes to this branch
+2. Commit the changes to this branch
 
 ---
 

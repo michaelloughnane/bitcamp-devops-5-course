@@ -30,8 +30,8 @@ This time we will start with the dependencies for our action. JavaScript project
    }
    ```
 
-1. Commit the changes to this branch.
-1. Click the green `Commit new file` button
+2. Commit the changes to this branch.
+3. Click the green `Commit new file` button
 
 ---
 
